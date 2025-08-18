@@ -50,16 +50,13 @@ format: post
 	</div><!-- /.medium-8.columns -->
 
 
-	{% if page.sidebar == "left" %}
-	<div class="medium-4 columns medium-pull-8">
+	{% if page.sidebar %}
+	<div class="medium-4 columns{% if page.sidebar == "left" %} medium-pull-8{% endif %}">
+	  {% if page.sidebar_file %}
+		{% include {{ page.sidebar_file }} %}
+	  {% else %}
 		{% include _sidebar.html %}
+	  {% endif %}
 	</div><!-- /.medium-4.columns -->
-	{% endif %}
-
-
-	{% if page.sidebar == "right" %}
-	<div class="medium-4 columns">
-		{% include _sidebar.html %}
-	</div><!-- /.medium-4.columns -->
-	{% endif %}
+  {% endif %}
 </div><!-- /.row -->

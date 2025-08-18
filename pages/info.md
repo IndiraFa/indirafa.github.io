@@ -1,13 +1,98 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
-permalink: "/info/"
+subheadline: "Who am I ?"
+teaser: "PhD, Medical Imaging, Strategy consulting"
+permalink: "/about-me/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: forest_header_2_unsplash.jpg # put anoter picture
+    title: About me
 ---
-...and learn at the same time.
+
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+  <img src="{{ site.url }}/images/photo_if.jpeg" alt="Profile picture" style="width: 200px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+</div>
+
+
+**Email**: fabre [dot] indira [at] gmail.com   
+**GitHub**: [github.com](https://github.com/IndiraFa)  
+**LinkedIn**: [linkedin.com](https://linkedin.com/in/indira-fabre)
+
+
+---
+
+## 🧠 Skills
+
+- Web Development (HTML5, CSS3, JS, Ruby, Liquid, Jekyll)
+- Docker, 
+- Git, GitHub, CI/CD workflows
+
+---
+
+## 💼 Experience
+
+### AI Research Engineer  
+*LTCI Lab, Telecom Paris | July 2025 – December 2025*
+
+- Designed and built responsive websites for small businesses and NGOs.
+- Maintained and customized Jekyll themes for client use.
+- Provided UX consulting for content-heavy projects.
+
+### AI Research Engineer  
+*Airbus Defence and Space | October 2024 – June 2025*
+
+- Designed and built responsive websites for small businesses and NGOs.
+- Maintained and customized Jekyll themes for client use.
+- Provided UX consulting for content-heavy projects.
+
+### Strategy consulting manager 
+*VERTONE | September 2028 – July 2024>*
+
+- Specialization in the mobility and transportation industry
+- Prospection and commercial developement
+- Management of junior and senior consultants teams
+
+
+---
+
+## 📁 Projects
+
+- **Exaplainability in classification of medical images using concepts visualization** – Implementation of the ViscoIN model on histological images of huhman colorectal cancer. [github.com](https://github.com/IndiraFa/XAI_medical_images_viscoin)
+- **RAG for mathematical problem-solving** – Set up of a RAG system in a containerized environment to ensure portability and ease of deployment. Evaluation of the effect of providing the LLM access to a question-and-answer math database to improve its reasoning capabilities.. [github.com](https://github.com/IndiraFa/RAG_math_problem_solver)
+
+
+---
+
+## 🎓 Education
+
+**PhD in Phhysical Chemistry**  
+University of Applied Sciences – [Your University Name]  
+*2008 – 2012*
+
+
+
+![Indira Fabre](/images/loreal_if.jpg)
+
+**Elève normalienne - Ecole Normale Supérieure de Cachan**  
+University of Applied Sciences – [Your University Name]  
+*2008 – 2012*
+
+
+---
+
+## 🧭 Philosophy
+
+Learning at every stage of life, staying curious and open-minded. Enjoying a challenge. combining scientific mindset and strong real-life impact.
+Eager to adapt AI to improve health. 
+
+
+---
+
+<!-- > *"Please make **Feeling Responsive** yours and if you like it, link back to my homebase [Phlow](http://phlow.de/)."*
+ -->
+
+
+<!-- ...and learn at the same time.
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
@@ -58,4 +143,4 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
  [17]: #
  [18]: #
  [19]: #
- [20]: #
+ [20]: # -->

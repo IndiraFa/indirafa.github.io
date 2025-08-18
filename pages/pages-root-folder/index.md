@@ -7,23 +7,27 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_5.jpg
-  title: Under construction #Welcome to Indira's projects website
-  text: test of text
+  title: Welcome to Indira's website
+  #text: test of text
 widget1:
-  title: 'ML Projects'
-  url: 'http://indirafa.github.io/ml-projects/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: '🧠 AI & ML Projects'
+  url: 'http://indirafa.github.io/ai-ml/'
+  image: med_img.png
+  text: This section showcases my work at the intersection of AI and real-world impact on medical imaging, satelite imagery and natural language processing.
 widget2:
-  title: 'Data Engineering'
+  title: '🔧 Data Engineering & MlOps'
   url: 'http://indirafa.github.io/data-engineering/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: datalake.png
+  text: Here you'll find projects focused on building scalable data infrastructure—ranging from cloud-native data lakes to Retrieval-Augmented Generation (RAG) systems. I also integrated MLOps practices to streamline model deployment, monitoring, and reproducibility.
 widget3:
-  title: 'Early works'
+  title: '🌱 Early works'
+  permalink: /early-works/
   url: 'http://indirafa.github.io/early-works/'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  #image: widget-github-303x182.jpg
+  text: A look back at my formative work during my PhD and earlier explorations. While not directly aligned with my current focus, these projects laid the groundwork for my analytical thinking, research rigor, and problem-solving approach.
+  video: '<a href="#" data-reveal-id="videoModalEarlyWorks"><img src="/assets/img/phd.png" width="302" height="182" alt=""/></a>'
+
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,9 +39,10 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive # to be changed
+  url: 'http://indirafa.github.io/about-me/' # to be changed
   text: More about me ›
   style: alert
+#permalink: /about-me/
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -45,10 +50,10 @@ permalink: /index.html
 #
 homepage: true
 ---
-
+<!-- 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->

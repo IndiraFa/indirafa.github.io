@@ -26,12 +26,12 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #334D5C; // dark turquoise
-$ci-2               : #45B29D; // turquoise
-$ci-3               : #EFC94C; // yellow
-$ci-4               : #E27A3F; // orange
-$ci-5               : #DF4949; // red
-$ci-6               : #A1D044; // green
+$ci-1               : #776D8C;  // #334D5C; // dark turquoise
+$ci-2               : rgb(218, 162, 173); //#BF7381;// #45B29D; // turquoise
+$ci-3               : #152340; // #EFC94C; // yellow
+$ci-4               : #F2AF88; // #E27A3F; // orange
+$ci-5               : #D98977;// #DF4949; // red
+$ci-6               : #BF7381;// #a16558;// #A1D044; // green
 
 
 
@@ -107,14 +107,14 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg          : $grey-5;//$grey-8;
 $footer-color       : #fff;
 $footer-link-color  : $ci-6;
 
 
 $subfooter-bg       : $grey-13;
-$subfooter-color    : $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-color    : $grey-5;//$grey-8;
+$subfooter-link-color: $grey-5;//$grey-8;
 
 
 
@@ -149,5 +149,5 @@ $highlight-name-function: #990000;
 $highlight-name-namespace: #555555;
 $highlight-name-tag: #000080;
 $highlight-text-whitespace: #bbbbbb;
-$highlight-literal-string-regex: #009926;
+$highlight-literal-string-regex:  #009926;
 $highlight-literal-string-symbol: #990073;

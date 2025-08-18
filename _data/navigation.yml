@@ -2,60 +2,68 @@
   url: "/"
   side: left
 
-- title: ML projects
-  url: "/ml-projects/"
+- title: AI & ML
+  url: "/ai-ml/"
   side: left
   dropdown:
   - title: "Medical imaging"
-    url: "/ml-projects/medical-imaging/"
+    url: "/ai-ml/medical-imaging/"
   - title: "Satellite imagery"
-    url: "/ml-projects/satellite-imagery/"
+    url: "/projects/satellite-images-change-detection/"
   - title: "Natural language processing"
-    url: "/ml-projects/nlp/"
+    url: "/ai-ml/nlp/"
 
 - title: "Data Engineering"
   url: "/data-engineering/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "RAG"
+    url: "/data-engineering/rag/"
+  - title: "Datalake"
+    url: "/data-engineering/datalake/"
+  - title: "MlOps"
+    url: "/data-engineering/mlops/"
+  # - title: "Post-Left-Sidebar"
+  #   url: "/design/post-left-sidebar/"
+  # - title: "Post-Right-Sidebar"
+  #   url: "/design/post-right-sidebar/"
+  # - title: "Page Full-Width"
+  #   url: "/design/page-fullwidth/"
+  # - title: "Blog-Page"
+  #   url: "/blog/"
+  # - title: "Video"
+  #   url: "/design/video/"
+  # - title: "Gallery"
+  #   url: "/design/gallery/"
+  # - title: "Portfolio"
+  #   url: "/design/portfolio/"
+
+- title: "Strategy consulting"
+  url: "/strategy-consulting/"
+  side: left
+  dropdown:
+  # - title: "Mobility and transport"
+  #   url: "/strategy-consulting/mobility"
+
 
 - title: "Early works"
   url: "/early-works/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "PhD thesis"
+    url: "/early-works/phd/"
+  - title: "Chemistry Publications"
+    url: "/early-works/publications/"
+  # - title: "Header with image and color"
+  #   url: "/design/header-image-color/"
+  # - title: "Header Only With Logo"
+  #   url: "/design/header-logo-only/"
+  # - title: "Header With Text"
+  #   url: "/design/header-with-text/"
+  # - title: "No Header"
+  #   url: "/design/no-header/"
+  # - title: "No Header but Image"
+  #   url: "/design/no-header-but-image/"
 
 # - title: Documentation
 #   url: "/documentation/"
@@ -66,21 +74,21 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-# - title: Blog
-#   url: "/blog/"
-#   side: left
-#   dropdown:
-#   - title: "Blog Archive"
-#     url: "/blog/archive/"
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+# - title: "Search"
+#   url: "/search/"
+#   side: right
 
 - title: "About me"
   url: "/about-me/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right

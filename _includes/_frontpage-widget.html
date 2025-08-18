@@ -27,3 +27,14 @@
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
 	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
 </div>
+
+<div id="videoModalEarlyWorks" class="reveal-modal large" data-reveal>
+	<div class="flex-video widescreen vimeo">
+	  <iframe src="https://player.vimeo.com/video/205545743?title=0&amp;byline=0&amp;portrait=0" 
+			  width="640" height="360" 
+			  frameborder="0" 
+			  webkitallowfullscreen mozallowfullscreen allowfullscreen>
+	  </iframe>
+	</div>
+	<a class="close-reveal-modal">&#215;</a>
+  </div>
