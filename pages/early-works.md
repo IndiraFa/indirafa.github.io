@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-permalink: "/early-works"
+permalink: "/early-works/"
 header:
   #image_fullwidth: header_roadmap_3.jpg
   image_fullwidth: chemistry_header_unsplash_3.jpg
