@@ -11,32 +11,18 @@
   - title: "Satellite imagery"
     url: "/projects/satellite-images-change-detection/"
   - title: "Natural language processing"
-    url: "/ai-ml/nlp/"
+    url: "/projects/pictogram-translation/"
 
 - title: "Data Engineering"
   url: "/data-engineering/"
   side: left
   dropdown:
   - title: "RAG"
-    url: "/data-engineering/rag/"
+    url: "/projects/rag-math-problem-solver/"
   - title: "Datalake"
-    url: "/data-engineering/datalake/"
+    url: "/projects/datalake/"
   - title: "MlOps"
-    url: "/data-engineering/mlops/"
-  # - title: "Post-Left-Sidebar"
-  #   url: "/design/post-left-sidebar/"
-  # - title: "Post-Right-Sidebar"
-  #   url: "/design/post-right-sidebar/"
-  # - title: "Page Full-Width"
-  #   url: "/design/page-fullwidth/"
-  # - title: "Blog-Page"
-  #   url: "/blog/"
-  # - title: "Video"
-  #   url: "/design/video/"
-  # - title: "Gallery"
-  #   url: "/design/gallery/"
-  # - title: "Portfolio"
-  #   url: "/design/portfolio/"
+    url: "/projects/mlops-image-classification/"
 
 - title: "Strategy consulting"
   url: "/strategy-consulting/"
@@ -44,7 +30,6 @@
   dropdown:
   # - title: "Mobility and transport"
   #   url: "/strategy-consulting/mobility"
-
 
 - title: "Early works"
   url: "/early-works/"
@@ -54,41 +39,14 @@
     url: "/early-works/phd/"
   - title: "Chemistry Publications"
     url: "/early-works/publications/"
-  # - title: "Header with image and color"
-  #   url: "/design/header-image-color/"
-  # - title: "Header Only With Logo"
-  #   url: "/design/header-logo-only/"
-  # - title: "Header With Text"
-  #   url: "/design/header-with-text/"
-  # - title: "No Header"
-  #   url: "/design/no-header/"
-  # - title: "No Header but Image"
-  #   url: "/design/no-header-but-image/"
-
-# - title: Documentation
-#   url: "/documentation/"
-#   side: left
-#   dropdown:
-#   - title: "Changelog"
-#     url: "/changelog/"
-#   - title: "Roadmap"
-#     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
+  url: "/blog/archive/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-# - title: "Search"
-#   url: "/search/"
-#   side: right
+  # dropdown:
+  # - title: "Blog Archive"
+  #   url: "/blog/archive/"
 
 - title: "About me"
   url: "/about-me/"
   side: right
-
-# - title: "Contact"
-#   url: "/contact/"
-#   side: right

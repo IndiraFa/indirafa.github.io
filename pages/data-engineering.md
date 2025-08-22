@@ -1,26 +1,14 @@
 ---
-layout: frontpage
+layout: page-fullwidth
 permalink: "/data-engineering"
 header:
   image_fullwidth: header_unsplash_9.jpg
   title: Data engineering
 ---
 
+### 🎓 [Retrieval Augmented Generation (RAG) to solve math problems ›](/projects/rag-math-problem-solver//)
+
+### 🚴 [Building a smart datalake for mobility insights in Île-de-France ›](/projects/datalake/)
 
 
-xxxx
-
-### 📘 [Big Data analysis](/projects/positioning-strategy/)
-
-xxxxx
-
-
-### 📘 [RAG](/data-engineering/rag/)
-xxxxx
-
-### 📚 [Data Lake](/data-engineering/data-lake/)
-xxxxx
-
-
-### 📚 [MlOps](/data-engineering/mlops/)
-xxxxx
+### ⚙️ [MlOps - Image classification continuous training pipeline ›](/projects/mlops-image-classification/)

@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page-fullwidth
 permalink: "/early-works"
 header:
   #image_fullwidth: header_roadmap_3.jpg
