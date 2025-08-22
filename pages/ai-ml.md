@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: '💬 Natural Language Processing (NLP) 🗣️'
   permalink: /early-works/
-  url: 'http://indirafa.github.io/ai-ml/nlp/'
+  url: 'http://indirafa.github.io/projects/pictogram-translation/'
   image: picto.png
   text: A published article on transformer-based translation from speech and text to pictogram sequences for AAC users, along with additional projects on machine translation and zero-shot learning.
 
