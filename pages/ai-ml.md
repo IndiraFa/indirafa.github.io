@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-permalink: "/ai-ml"
+permalink: "/ai-ml/"
 header:
   image_fullwidth: header_unsplash_leaf.jpg
   title: AI & Machine Learning

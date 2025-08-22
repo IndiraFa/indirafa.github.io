@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-permalink: "/data-engineering"
+permalink: "/data-engineering/"
 header:
   image_fullwidth: header_unsplash_9.jpg
   title: Data engineering
