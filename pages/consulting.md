@@ -19,7 +19,7 @@ I have over six years of experience in strategy consulting, working with a wide 
 Selected Industry Experience:
 
 ### 🚌 Public Transport Companies & Authorities
-- Led thhe development of a transportation optimization tool for people with reduced mobility
+- Led the development of a transportation optimization tool for people with reduced mobility
 - Conducted an opportunity study and economic modeling for a bike-sharing service
 - Performed economic modeling of the impact of a new transport ticket on traffic, revenue, customer volume
 - Diagnosed existing innovation processes and implemented a tailored methodology to increase efficiency and impact for cross-team innovation projects
@@ -46,7 +46,7 @@ Selected Industry Experience:
 - Scoping and economic modeling for the redesign of a loyalty program for a retail company
 
 ### Clients  
-Over the years, I’ve had the privilege of working with leading organizations across sectors.  
+Over the years, I’ve had the privilege of working with leading organizations across various sectors.  
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 24px; align-items: center; justify-items: center; margin-top: 1.5rem;">
   <img src="/images/idfm.png" alt="Client 1" style="max-width: 120px; max-height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'">

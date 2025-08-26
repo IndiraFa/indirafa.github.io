@@ -91,6 +91,7 @@ Industry Collaboration Project: applied AI and data science to solve real-world 
 - **Explainability in classification of medical images using concepts visualization** – Implementation of the ViscoIN model on histological images of human colorectal cancer. [To know more](https://github.com/IndiraFa/XAI_medical_images_viscoin)
 - **RAG for mathematical problem-solving** – Set up of a RAG system in a containerized environment to ensure portability and ease of deployment. Evaluation of the effect of providing the LLM access to a question-and-answer math database to improve its reasoning capabilities. [To know more](/projects/rag-math-problem-solver/)
 - **Datalake for mobility insights** - Set up an analytical and research-oriented DataLake that combines several tools for data ingestion, transformation, and visualization. [To know more](/projects/datalake/)
+- **NLP - Pictogram translation using Transformers for speech and language impairments** - Winner of the ImageClef 2025 ToPicto challenge (accepted paper) [To know more](/projects/pictogram-translation/)
 
 ---
 
@@ -125,9 +126,8 @@ Industry Collaboration Project: applied AI and data science to solve real-world 
   - Distributed systems: Hadoop, MapReduce  
 
 - **Cloud Computing & MLOps**
-  - Cloud technologies: Kubernetes, Docker, virtualization, AWS, Google Cloud, Azure  
+  - Cloud technologies: Kubernetes, Docker, virtualization, AWS
   - MLOps: CI/CD pipelines for machine learning models  
-  - Collaborative industry project: applied MLOps in real-world production systems  
 
 ---
 
