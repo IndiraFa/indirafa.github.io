@@ -7,8 +7,8 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_5.jpg
-  title: Welcome to Indira's website
-  #text: test of text
+  title: "Indira Fabre, PhD.<br><small>AI & Data – Healthcare – Strategy consulting</small>"
+  text: Welcome !
 widget1:
   title: '🧠 AI & ML Projects'
   url: 'http://indirafa.github.io/ai-ml/'

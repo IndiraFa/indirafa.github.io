@@ -56,5 +56,6 @@ Over the years, I’ve had the privilege of working with leading organizations a
   <img src="/images/TotalEnergies.png" alt="Client 5" style="max-width: 120px; max-height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'">
   <img src="/images/yara_logo.png" alt="Client 6" style="max-width: 120px; max-height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'">
   <img src="/images/Logo_Intersport.png" alt="Client 7" style="max-width: 120px; max-height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'">
+    <img src="/images/Logo_sncf.jpeg" alt="Client 8" style="max-width: 120px; max-height: 60px; object-fit: contain; filter: grayscale(100%); transition: filter 0.3s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'">
 </div>
 

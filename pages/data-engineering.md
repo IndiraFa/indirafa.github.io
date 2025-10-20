@@ -6,7 +6,7 @@ header:
   title: Data engineering
 ---
 
-### 🎓 [Retrieval Augmented Generation (RAG) to solve math problems ›](/projects/rag-math-problem-solver//)
+### 🎓 [Retrieval Augmented Generation (RAG) to solve math problems ›](/projects/rag-math-problem-solver/)
 
 ### 🚴 [Building a smart datalake for mobility insights in Île-de-France ›](/projects/datalake/)
 

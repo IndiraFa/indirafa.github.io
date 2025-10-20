@@ -6,4 +6,4 @@ header:
 permalink: /ai-ml/medical-imaging/
 ---
 
-### [🧠 Explainability in medical images classification ›](https://github.com/IndiraFa/XAI_medical_images_viscoin)
+### [🧠 Explainability in medical images classification ›](/projects/explainability-in-medical-images-classification/)

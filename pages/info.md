@@ -5,7 +5,7 @@ layout: page-fullwidth
 permalink: "/about-me/"
 header:
     image_fullwidth: forest_header_2_unsplash.jpg # put anoter picture
-    title: PhD, Medical Imaging, Strategy consulting
+    title: PhD. AI & Data - Healthcare - Strategy consulting
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 2rem 0;"> 
