@@ -13,7 +13,7 @@ categories:
     - projects
 ---
 
-📝 **Accepted paper available soon...**
+📝 **Read the full paper [here](https://ceur-ws.org/Vol-4038/paper_192.pdf)**
 
 ## Context
 

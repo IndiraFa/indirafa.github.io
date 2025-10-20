@@ -49,7 +49,7 @@ The indexation process is described in Figure 2. [^3]
 
 ![Indexation process to populate te vector database](/images/indexation_process.png)
 
-*Figure 2: Indexation process to populate te vector database*
+*Figure 2: Indexation process to populate the vector database*
 
 This detailed process can be broken down into four steps: 
 -	Step 1 – Loading the data: this is done using document loaders
